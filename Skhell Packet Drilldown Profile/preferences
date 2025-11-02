@@ -31,7 +31,7 @@
 
 # Directory to start in when opening File Open dialog.
 # A path to a directory
-#gui.fileopen.dir: /home/elelab
+#gui.fileopen.dir: /home/skhell
 
 # The preview timeout in the File Open dialog
 # A decimal number
@@ -500,7 +500,7 @@ gui.show_file_load_time.enabled: TRUE
 
 # Remote SSH server username
 # A string
-#extcap.ciscodump.remoteusername: elelab
+#extcap.ciscodump.remoteusername: skhell
 
 # Remote SSH server password
 # Password (never stored on disk)

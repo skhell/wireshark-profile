@@ -1,15 +1,15 @@
 ##########################################################################
-#   Wireshark Profile:  Elelab Packet Drilldown Profile                  #
-#   Author:             elelabdev                                        #
+#   Wireshark Profile:  skhell Packet Drilldown Profile                  #
+#   Author:             skhell                                        #
 #   Description:        For every Network Warrior this Wireshark profile #
 #                       aims to help making troubleshooting easier.      #
 #                                                                        #
-#   Github:      https://github.com/elelabdev/wireshark-profile          #
+#   Github:      https://github.com/skhell/wireshark-profile          #
 #                                                                        #
-#   Icon Author: elelab                                                  #
+#   Icon Author: skhell                                                  #
 #                                                                        #
-#   Copyright (C) 2025 elelab                                            #
-#   https://www.elelab.dev                                               #
+#   Copyright (C) 2025 skhell                                            #
+#   https://www.skhell.com                                               #
 #                                                                        #
 #   Licensed under the MIT License. See LICENSE file in the project      #
 #   root for details.                                                    #

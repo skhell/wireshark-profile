@@ -163,7 +163,7 @@ gui.endpoint_tabs_columns:
 gui.rlc_pdus_from_mac_frames: false
 
 # Last directory navigated to in File Open dialog.
-gui.fileopen_remembered_dir: /home/elelab/Downloads/pcap/2015-03-07/
+gui.fileopen_remembered_dir: /home/skhell/Downloads/pcap/2015-03-07/
 
 # Additional Toolbars shown
 # List of additional toolbars to show.
